@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/_akshayrajput" target="blank"><img src="https://img.shields.io/twitter/follow/_akshayrajput?logo=twitter&style=for-the-badge" alt="_akshayrajput" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript DOM Traversal**
+- 🌱 I’m currently learning **Javascript ES6**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://akshayr.netlify.app)
 
