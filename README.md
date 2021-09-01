@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h4 align="center">I've worked with Vuejs in the past, currently working with Reactjs.</h4>
-<p align="center">I have strong styling experience and I'm able to implement a design from scratch without relying on external libraries.</p>
+<p align="center">I'm also into UI/UX, accessibility, web performance & optimisation</p>
 &nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-rajput" /> </p>
