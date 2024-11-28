@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working with **Vue 3, GraphQl and Typescript**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://akshayr.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://akshayrajput.me?ref=github)
 
 - 💬 Talk to me about **Reactjs**, **Vuejs**, **CSS**, **TailwindCSS**, **Web performance**, **UX**
 
