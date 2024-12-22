@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/_akshayrajput" target="blank"><img src="https://img.shields.io/twitter/follow/_akshayrajput?logo=twitter&style=for-the-badge" alt="_akshayrajput" /></a> </p>
 
-- 🌱 I’m currently working with **Vue 3, GraphQl and Typescript**
+- 🌱 I’m currently working with **Nextjs, GraphQl and Typescript**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://akshayrajput.me?ref=github)
 
