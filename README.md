@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently working with **Nextjs, GraphQl and Typescript**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://akshayrajput.me?ref=github)
-
-- 💬 Talk to me about **Reactjs**, **Vuejs**, **CSS**, **TailwindCSS**, **Web performance**, **UX**
+- 💬 Talk to me about **Frontend**, **Web performance**, **UX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
